@@ -1,10 +1,10 @@
-# Pages OAuth - Kreolyse
+# Pages OAuth - Kréolyse (Assistant lexical)
 
 Ce dossier contient les pages statiques pour la validation OAuth Google.
 
 ## Fichiers
 
-- `index.html`: page d'accueil de l'application
+- `index.html`: page d'accueil (présentation du projet — assistant lexical)
 - `privacy.html`: politique de confidentialite
 - `terms.html`: conditions d'utilisation
 - `styles.css`: style partage
